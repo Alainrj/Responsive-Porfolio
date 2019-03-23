@@ -25,33 +25,45 @@
   color: white;
 } 
 
+.img {
+    float: left;
+    margin: 4px; 
+    height: 225px;
+    width: 225px;
+}
+
 .img1 {
+  float: left;
+  margin: 4px; 
   height: 450px;
-  width: 450px;
+  width: 600px;
 }
 
 .img2 {
-  height: 450px;
-  width: 450px;
+  float: left;
+  margin: 4px; 
+  height: 400px;
+  width: 600px;
 }
 
 .img3 {
-  height: 450px;
-  width: 450px;
+  float: left;
+  margin: 4px; 
+  height: 400px;
+  width: 600px;
 }
 
-.img4 {
-  height: 450px;
-  width: 450px;
+.card-text2 {
+  clear: left;
 }
 
-#me {
-  float: right;
+.card-text3 {
+  clear: left;
 }
 
 body {
   background-color: #e9e7ef;
-  padding: 0;
+  padding: 10px;
   margin: 0;
   font-family: "Georgia", "Times New Roman", 'Times New Roman', Times, serif;
   font-size: 18px;
